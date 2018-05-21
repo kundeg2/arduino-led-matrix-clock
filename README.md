@@ -14,10 +14,13 @@ S - A0
 ### RTC module
 
 SCL - D9
+
 SDA - D10
 
 ### LED Matrix Modules
 
 DIN - D7
+
 CS - D5
+
 CLK - D6
