@@ -1,4 +1,4 @@
-# matrix-clock
+# matrix_clock
 
 This repository is an LED matrix clock made with Arduino, the DS3231 RTC module and the MAX7219 LED matrix controller. It also has an ambient light sensor for controlling the brightness of the clock.
 
