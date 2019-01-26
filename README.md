@@ -1,9 +1,8 @@
 # matrix_clock
 
-This repository is an LED matrix clock made with Arduino, the DS3231 RTC module and the MAX7219 LED matrix controller. It also has an ambient light sensor for controlling the brightness of the clock.
+An LED-matrix clock made with Arduino, using a DS3231 RTC module and 4 MAX7219 LED-matrix controllers. It also has an ambient light sensor for controlling the brightness.
 
-For making the byte codes representing the numbers from 00 to 59, I wrote a simple C code, which you can find in byte-generator.txt.
-Also, the RTC module isn't so accurate, thus I made a bit of a self correction. It sets the clock forward 1 second in every 3 days.
+For making the byte codes representing the numbers from 00 to 59, I wrote a simple C code, which you can find in byte-generator.txt. Also, I made a small amount of self correction to the RTC module in order to make it more accurate.
 
 ## Configuration
 
