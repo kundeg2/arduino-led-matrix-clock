@@ -1,4 +1,4 @@
-# arduino_led_matrix_clock
+# arduino-led-matrix-clock
 
 An LED-matrix clock made with Arduino, using a DS3231 RTC module and four MAX7219 LED-matrix controllers. It also has an ambient light sensor for controlling the brightness.
 
