@@ -16,7 +16,7 @@ SCL - D9
 
 SDA - D10
 
-### LED Matrix Modules
+### LED-matrix Modules
 
 DIN - D7
 
